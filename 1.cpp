@@ -1,4 +1,4 @@
-class Solution {
+class snjk {
 public:
     vector<int> twoSum(vector<int>& a, int tar) 
     {
